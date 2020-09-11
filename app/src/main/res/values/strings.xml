@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">studC</string>
+    <string name="closeNavDrawer">close side navigation drawer</string>
+    <string name="openNavDrawer">open side navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

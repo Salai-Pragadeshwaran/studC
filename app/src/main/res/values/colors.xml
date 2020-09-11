@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bgColor">#03A9F4</color>
+    <color name="dark_blue_Color">#01579B</color>
+    <color name="assignment_submitted">#4CAF50</color>
+    <color name="assignment_not_submitted">#FF9800</color>
+</resources>

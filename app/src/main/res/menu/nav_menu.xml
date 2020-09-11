@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/notification_navMenu"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        android:title="Notification"/>
+    <item
+        android:id="@+id/studyMaterial_navMenu"
+        android:icon="@drawable/ic_outline_library_books_24"
+        android:title="Study Materials"/>
+    <item
+        android:id="@+id/assignment_navMenu"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="Assignments"/>
+
+    </group>
+
+    <item android:title="communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share" />
+        </menu>
+    </item>
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_person_outline_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

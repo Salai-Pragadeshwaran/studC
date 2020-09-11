@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105194371328",
+    "firebase_url": "https://studc-c161b.firebaseio.com",
+    "project_id": "studc-c161b",
+    "storage_bucket": "studc-c161b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105194371328:android:5a41300fa1b0c3674bdbe5",
+        "android_client_info": {
+          "package_name": "com.example.studc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105194371328-g3eetph99eu5a276jm3vfai37d1rackt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studc",
+            "certificate_hash": "47197a585215e1fee22fcd3f9354a1488f067097"
+          }
+        },
+        {
+          "client_id": "105194371328-mbjc61bdhie9ho92k0atun290n7b1dp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCq9E_q9bhgtH1oEjryExcXL19ii4JrpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105194371328-mbjc61bdhie9ho92k0atun290n7b1dp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
